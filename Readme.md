@@ -1,9 +1,11 @@
-dasdsadasdassada# Git course
+# Git course
 
 Este é um repositório teste para ensinar como o Git funciona.
 
 Saiba mais em
 
-Go =)
+Gostou do curso? Quer mais? Ajude com uma doação, até um café é válido =)
 
-akopakop
+Nova frase
+
+Outros cursos em: url
